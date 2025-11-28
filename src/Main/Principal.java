@@ -31,6 +31,7 @@ public class Principal {
 			System.out.println("4---Editar");
 			System.out.println("5--Eliminar");
 			System.out.println("6---Salir");
+			System.out.println("Estamos trabajando con git");
 			
 			lectura = new Scanner(System.in);
 			menuPrin = lectura.nextInt();
